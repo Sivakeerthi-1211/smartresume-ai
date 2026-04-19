@@ -27,7 +27,7 @@ The application runs completely locally using open-source tools.
 ### 🔹 Input & Processing
 
 <p align="center">
-  <img src="images/img1.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a3276192-bea6-41f2-b7ac-928a6957d104" width="45%" />
   <img src="images/img2.png" width="45%" />
 </p>
 
@@ -36,8 +36,7 @@ The application runs completely locally using open-source tools.
 ### 🔹 Results & Report
 
 <p align="center">
-  <img src="images/<img width="751" height="691" alt="{ABBF591F-A5D4-4628-B1AF-B048EC89B78A}" src="https://github.com/user-attachments/assets/fef3918a-4d44-46ca-8b14-50a9d5eb84db" />
-" width="45%" />
+  <img src="images/img3.png" width="45%" />
   <img src="images/img4.png" width="45%" />
 </p>
 
@@ -70,3 +69,9 @@ The application runs completely locally using open-source tools.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+
+
+<img width="735" height="702" alt="{349741B5-8196-493C-B39D-EF3D87BABCAE}" src="https://github.com/user-attachments/assets/3a838cfc-6c8b-4609-9403-9999fe410ffd" />
+
