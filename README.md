@@ -72,9 +72,3 @@ The application runs completely locally using open-source tools.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-
-
-
-<img width="735" height="702" alt="{349741B5-8196-493C-B39D-EF3D87BABCAE}" src="https://github.com/user-attachments/assets/3a838cfc-6c8b-4609-9403-9999fe410ffd" />
-
