@@ -24,19 +24,22 @@ The application runs completely locally using open-source tools.
 
 ## 🖼️ Application Screenshots
 
-### 🔹 Input Section
-![Input UI](images/<img width="741" height="705" alt="{B54E670D-2506-4F37-B21A-31F8706C3E99}" src="https://github.com/user-attachments/assets/b06d8f25-e21b-4750-a018-9af67a9d9094" />
-)
+### 🔹 Input & Processing
+
+<p align="center">
+  <img src="images/img1.png" width="45%" />
+  <img src="images/img2.png" width="45%" />
+</p>
 
 ---
 
-### 🔹 Results Section
-![Results UI](images/result_ui.png)
+### 🔹 Results & Report
 
----
-
-### 🔹 Generated Report
-![Report Output](images/report_output.png)
+<p align="center">
+  <img src="images/<img width="751" height="691" alt="{ABBF591F-A5D4-4628-B1AF-B048EC89B78A}" src="https://github.com/user-attachments/assets/fef3918a-4d44-46ca-8b14-50a9d5eb84db" />
+" width="45%" />
+  <img src="images/img4.png" width="45%" />
+</p>
 
 ---
 
