@@ -37,9 +37,11 @@ The application runs completely locally using open-source tools.
 ### 🔹 Results & Report
 
 <p align="center">
-  <img src="images/img3.png" width="45%" />
-  <img src="images/img4.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/36466862-e5f9-4884-8423-e7cf9a867d07" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ebbf5c26-730b-49bf-8a1e-686f0da38f92" width="45%" />
 </p>
+
+
 
 ---
 
