@@ -28,8 +28,9 @@ The application runs completely locally using open-source tools.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a3276192-bea6-41f2-b7ac-928a6957d104" width="45%" />
-  <img src="images/img2.png" width="45%" />
+  <img src="https://github.com/user-attachments/assets/788581e1-abc9-4e4c-8a59-50a5e0a3857a" width="45%" />
 </p>
+
 
 ---
 
